@@ -1,0 +1,11 @@
+This is a Grade Point Average (GPA) calculator mobile application that computes GPA
+based on course credits and the achieved grade.
+
+In this app computes semester GPA, Year GPA and final GPA.
+
+If your university computes GPA with different weights for each year separately
+this app allows you to enter the weight according to your university preference.
+
+This is very simple mobile application that developed by Dilshan Chathuranga.
+B.Sc. (Hons) Computer Science & Technology.
+Sabaragamuwa University of Sri Lanka.

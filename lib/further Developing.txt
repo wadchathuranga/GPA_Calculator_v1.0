@@ -1,0 +1,47 @@
+
+###-------- Further Development --------###
+# Kalin Screen ekt back wenakot state ek reset karanna igena gn oni.
+# DarkMode feature ek.
+# dropdown ek clear wen na
+# Screen size optimization should be more important
+# Add update available dialog box
+
+
+# ----- Weight Screen -----------
+# validation ake enable karama value format ake (double) error ekk anwa
+# weightScreen ake year weight 2,3,4 validation error penan na. mulma eka year1 weight ek null unoth.
+
+
+### About ###
+This is a Grade Point Average (GPA) value calculator mobile application.
+
+This app computes Semester GPA, Year GPA, current GPA and final GPA
+based on course credits and the grade achieved.
+
+This is a 4.0 scalar GPA Calculator
+
+If your university computes GPA with different weights for each year separately
+this app allows to enter the weight according to your university preference.
+
+Developed by Dilshan Chathuranga.
+Sabaragamuwa University of Sri Lanka.
+
+Copyright @2022. All rights reserved.
+
+
+### Weight ###
+In here you can add weight values according to each four years
+if you are not set the any value application will use default values (1/4) or (0.25)
+for each year separately to compute the final GPA value.
+
+###-------- Versions --------###
+# ----- v1.0 -----
+# Initial Release
+
+# ----- v1.1 -----
+# Share this app
+# Clear All Semester Records
+# Semester Record Clear Button Validated
+
+# ----- v1.2 -----
+#
